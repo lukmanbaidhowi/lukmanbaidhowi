@@ -8,7 +8,7 @@
 [<img align="left" alt="Lukman Baidhowi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://instagram.com/lukman.baidhowi
-[linkedin]: https://linkedin.com/in/lukman-baidhowi
+[linkedin]: https://linkedin.com/in/lukmanbaidhowi
 
 <br/>
 <hr/>
