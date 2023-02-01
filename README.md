@@ -1,6 +1,7 @@
 ### Hi there, i'm Lukman Baidhowi 👋
-- 🔭 I’m currently working as Backend Developer and IoT Engineer
+- ⚡ I'm a Software Engineer focusing on Back-End and IoT
 - 🌱 I’m currently learning Go lang, Microservices, Kubernetes on Cloud GCP and also Node JS
+- ⚡ I love trying new things
 
 ##### 📫 How to reach me:
 
@@ -12,7 +13,7 @@
 
 <br/>
 <hr/>
-<img align="left" alt="hakimscode Github Stats" src="https://github-readme-stats.vercel.app/api?username=lukmanbaidhowi&theme=algolia&show_icons=true">
+<img align="left" alt="lukmanbaidhowi Github Stats" src="https://github-readme-stats.vercel.app/api?username=lukmanbaidhowi&theme=algolia&show_icons=true">
 
 <!--
 **lukmanbaidhowi/lukmanbaidhowi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
