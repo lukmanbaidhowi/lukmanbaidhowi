@@ -1,8 +1,8 @@
 ### Hi there, i'm Lukman Baidhowi 👋
+- 🔭 I’m currently working as Backend Developer and IoT Engineer
+- 🌱 I’m currently learning Go lang, Microservices, Kubernetes on Cloud GCP and also Node JS
 
-- 🌱 I’m currently learning Node JS, Cloud on AWS, ReactJS and React Native 
-
-### Connect with me:
+##### 📫 How to reach me:
 
 [<img align="left" alt="Lukman Baidhowi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Lukman Baidhowi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
